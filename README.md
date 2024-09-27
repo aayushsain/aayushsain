@@ -1,4 +1,4 @@
-# Hi there, I'm Aayush Sain 👋
+# Hi there, I'm Aayush Sengupta 👋
 
 I'm an aspiring software developer with a passion for creating innovative solutions and a keen interest in various aspects of software development.
 
